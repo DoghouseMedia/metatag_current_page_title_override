@@ -1,0 +1,6 @@
+{
+    "name": "doghouse/metatag_current_page_title_override",
+    "description": "Adds the ability to overide the current-page:title token in the basic metatag field.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later"
+}
